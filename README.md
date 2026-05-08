@@ -23,5 +23,5 @@ npm run dev
 - Netlify/Vercel: Connect GitHub repo
 - All assets in `/public`, static build ready
 
-© 2025 Omar Al-Jazaa
+© 2026 Omar Al-Jazaa
 

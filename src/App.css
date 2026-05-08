@@ -1,0 +1,5 @@
+/* Portfolio app styles - no layout constraints, full-width responsive design */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
